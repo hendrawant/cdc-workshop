@@ -12,7 +12,7 @@
 		"height": 320
         },
 	"price": {
-    		"amount": 1000000000000,
-		"currency": "galactic credits"
+    	"amount": 1000000000000,
+		"currency": "sun credits"
 	}
 }
