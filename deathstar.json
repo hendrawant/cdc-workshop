@@ -1,15 +1,15 @@
 {
 	"id": 1,
-	"name": "Death Star",
+	"name": "Hendra Star",
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moff Jr.",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
 	"specification": {
-		"scale": "km",	
+		"scale": "km",
 		"lenght": 120,
 		"width": 120,
-		"height": 120
+		"height": 320
         },
 	"price": {
     		"amount": 1000000000000,
