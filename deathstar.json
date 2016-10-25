@@ -6,10 +6,10 @@
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
 	"specification": {
-		"scale": "km",	
+		"scale": "km",
 		"lenght": 120,
 		"width": 120,
-		"height": 120
+		"height": 320
         },
 	"price": {
     		"amount": 1000000000000,
