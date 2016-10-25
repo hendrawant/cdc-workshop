@@ -1,9 +1,9 @@
 {
 	"id": 1,
-	"name": "Hendra Star",
+	"name": "Galih Rindu Dia",
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moff Jr.",
-	"weapon": ["superlaser", "tractor beam", "turbolaser"],
+	"weapon": ["superlaser", "tractor beam", "turbolaser", "flower"],
 	"powersource": "hypermatter reactor",
 	"specification": {
 		"scale": "km",
@@ -12,8 +12,15 @@
 		"height": 320
         },
 	"price": {
+<<<<<<< HEAD
     		"amount": 1000000000000,
 		"currency": "galactic credits"
 	},
 	"test": "test"
 }
+=======
+    	"amount": 1000000000000,
+		"currency": "sun credits"
+	}
+}
+>>>>>>> 2b1ceb53470b2ce23426b5fee9606f0790d057a5
