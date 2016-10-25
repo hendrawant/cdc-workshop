@@ -2,7 +2,7 @@
 	"id": 1,
 	"name": "Death Star",
 	"identifier": "DS-1 platform",
-	"commander": "Grand Moff",
+	"commander": "Grand Moff Jr.",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
 	"specification": {
