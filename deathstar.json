@@ -12,15 +12,10 @@
 		"height": 320
         },
 	"price": {
-<<<<<<< HEAD
-    		"amount": 1000000000000,
+    	"amount": 1000000000000,
 		"currency": "galactic credits"
 	},
 	"test": "test"
+	"amount": 1000000000000,
+	"currency": "sun credits"
 }
-=======
-    	"amount": 1000000000000,
-		"currency": "sun credits"
-	}
-}
->>>>>>> 2b1ceb53470b2ce23426b5fee9606f0790d057a5
