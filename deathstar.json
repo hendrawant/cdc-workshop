@@ -3,7 +3,7 @@
 	"name": "Hendra Star",
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moff Jr.",
-	"weapon": ["superlaser", "tractor beam", "turbolaser"],
+	"weapon": ["superlaser", "tractor beam", "turbolaser", "flower"],
 	"powersource": "hypermatter reactor",
 	"specification": {
 		"scale": "km",
