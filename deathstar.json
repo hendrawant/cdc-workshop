@@ -1,0 +1,18 @@
+{
+	"id": 1,
+	"name": "Death Star",
+	"identifier": "DS-1 platform",
+	"commander": "Grand Moff",
+	"weapon": ["superlaser", "tractor beam", "turbolaser"],
+	"powersource": "hypermatter reactor",
+	"specification": {
+		"scale": "km",	
+		"lenght": 120,
+		"width": 120,
+		"height": 120
+        },
+	"price": {
+    		"amount": 1000000000000,
+		"currency": "galactic credits"
+	}
+}
