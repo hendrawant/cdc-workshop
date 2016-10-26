@@ -2,7 +2,7 @@
 	"id": 1,
 	"name": "Galih Rindu Dia",
 	"identifier": "DS-1 platform",
-	"commander": "Grand Moff Jr.",
+	"commander": "Grand Moffi Jr.",
 	"weapon": ["superlaser", "tractor beam", "turbolaser", "flower"],
 	"powersource": "hypermatter reactor",
 	"specification": {
