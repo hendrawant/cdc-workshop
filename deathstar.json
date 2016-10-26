@@ -1,6 +1,6 @@
 {
 	"id": 1,
-	"name": "Merge",
+	"name": "Merge No FF",
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moff Jr.",
 	"weapon": ["superlaser", "tractor beam", "turbolaser", "flower"],
