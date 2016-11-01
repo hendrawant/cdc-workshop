@@ -3,6 +3,7 @@
 	"name": "Merge FF",
 	"identifier": "DS-1 platform",
 	"commander": "Grand Moffi Jr.", //Edited on my local branch
+	//Edited on my local branch 2
 	"weapon": ["superlaser", "tractor beam", "turbolaser", "flower"],
 	"powersource": "hypermatter reactor",
 	"specification": {
