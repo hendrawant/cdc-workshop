@@ -1,8 +1,8 @@
 {
 	"id": 1,
-	"name": "Death Star",
+	"name": "Honda Astrea Star",
 	"identifier": "DS-1 platform",
-	"commander": "Grand Moff",
+	"commander": "Honda Astrea Grand Moff",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
 	"specification": {
