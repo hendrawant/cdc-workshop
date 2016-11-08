@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"name": "Honda Astrea Star",
-	"identifier": "DS-1 platform",
+	"identifier": "DS-3 platform",
 	"commander": "Honda Astrea Grand Moff",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
@@ -12,7 +12,7 @@
 		"height": 120
         },
 	"price": {
-    		"amount": 1000000000000,
+    		"amount": 1200000000000,
 		"currency": "galactic credits"
 	}
 }
